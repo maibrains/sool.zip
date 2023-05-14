@@ -1,0 +1,6 @@
+This favicon was generated using the following font:
+
+- Font Title: Noto Sans KR
+- Font Author: Copyright 2014-2020 Adobe (http://www.adobe.com/).
+- Font Source: http://fonts.gstatic.com/s/notosanskr/v27/Pby7FmXiEBPT4ITbgNA5CgmOalvI7rgQsWYrzw.otf
+- Font License: SIL Open Font License, 1.1 (http://scripts.sil.org/OFL))
